@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Dimas Suprianto: Welcome to my blog
 ---
 
