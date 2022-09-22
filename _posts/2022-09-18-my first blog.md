@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to my blog"
 date: 2022-09-23
+categories: mbuh
 ---
 
 # Welcome
