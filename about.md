@@ -2,6 +2,6 @@
 permalink: /about/
 ---
 
-# About
+## About
 
 Ini page About
