@@ -1,5 +1,3 @@
----
-Dimas Suprianto: Welcome to my blog
----
+# Haloo
 
-Haloooo
+Selamat datang di blog DimasSuprianto
